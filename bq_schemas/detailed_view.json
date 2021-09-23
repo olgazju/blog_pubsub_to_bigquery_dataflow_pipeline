@@ -1,0 +1,30 @@
+
+[
+  {
+    "mode": "NULLABLE",
+    "name": "event_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "time",
+    "type": "DATETIME"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "visitor_id",
+    "type": "STRING"
+  },
+  {
+      "fields": [
+        {
+          "mode": "NULLABLE",
+          "name": "id",
+          "type": "STRING"
+        }
+    ],
+    "mode": "NULLABLE",
+    "name": "book",
+    "type": "RECORD"
+  }
+]
