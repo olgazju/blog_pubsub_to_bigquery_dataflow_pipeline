@@ -2,4 +2,4 @@ This repository contains the source code for my blog [post](https://www.datobra.
 
 This is a tutorial on creating a Dataflow pipeline that streams data from PubSub to BigQuery in Java.
 
-You can find the full description of how to set the environment and run it from the post.
+You can find the full description of how to set the environment and run it in the post.
